@@ -10,7 +10,7 @@ A modern, visually interactive Contact Manager with drag-and-drop cards, priorit
 ## 🚀 Live Demo
 
 ```
-https://your-live-demo-link.com
+https://contact-manager-37t2.onrender.com
 ```
 Future inhancement can include feature to store this dataset in database and reload it back once session refreshes again.
 
