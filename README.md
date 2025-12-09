@@ -71,8 +71,7 @@ Backup or restore the entire contact database.
 ```
 contact-manager/
 │
-├── public/
-│   └── index.html
+├──index.html
 │
 ├── src/
 │   ├── components/
@@ -86,6 +85,7 @@ contact-manager/
 ├── package-lock.json
 ├── tailwind.config.js
 ├── postcss.config.js
+├── vite.config.js
 └── README.md
 ```
 
@@ -108,7 +108,7 @@ contact-manager/
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/your-username/contact-manager.git
+git clone https://github.com/DhawalThombare37/Contact-Manager.git
 cd contact-manager
 ```
 
