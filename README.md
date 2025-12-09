@@ -6,6 +6,20 @@ A modern, visually interactive Contact Manager with drag-and-drop cards, priorit
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/DhawalThombare37/Contact-Manager/stargazers">
+    <img src="https://img.shields.io/github/stars/DhawalThombare37/Contact-Manager?style=for-the-badge&color=yellow" />
+  </a>
+  <a href="https://github.com/DhawalThombare37/Contact-Manager/issues">
+    <img src="https://img.shields.io/github/issues/DhawalThombare37/Contact-Manager?style=for-the-badge&color=red" />
+  </a>
+  <a href="https://github.com/DhawalThombare37/Contact-Manager">
+    <img src="https://img.shields.io/github/repo-size/DhawalThombare37/Contact-Manager?style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://render.com/">
+    <img src="https://img.shields.io/badge/DEPLOYED%20ON-RENDER-purple?style=for-the-badge" />
+  </a>
+</p>
 
 ## 🚀 Live Demo
 
